@@ -1,6 +1,7 @@
 {
     "name": "johanospina/js_composer",
     "type": "wordpress-plugin",
-	"require": {"v1.0.25"}
+	"require": {"composer/installers":"v1.0.25"}
   
+
 }
