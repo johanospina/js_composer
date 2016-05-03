@@ -1,0 +1,6 @@
+{
+    "name": "johan_ospina/bankrolla",
+    "type": "wordpress-plugin",
+	"require": {"v1.0.25"}
+  
+}
