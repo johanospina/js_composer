@@ -1,5 +1,5 @@
 {
-    "name": "johan_ospina/bankrolla",
+    "name": "johanospina/js_composer",
     "type": "wordpress-plugin",
 	"require": {"v1.0.25"}
   
